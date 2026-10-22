@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="12" fill="#FC6D26"/>
+  <path d="M40 50L30 25h20L40 50z" fill="white"/>
+  <path d="M30 25L25 35L40 50L30 25z" fill="#E24329"/>
+  <path d="M50 25L55 35L40 50L50 25z" fill="#E24329"/>
+  <text x="40" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="9" font-weight="bold">GitLab</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="12" fill="#ED8B00"/>
+  <path d="M25 45c0-3 8-5 15-5s15 2 15 5c0 2-3 4-8 5v8c0 2-3 4-7 4s-7-2-7-4v-8c-5-1-8-3-8-5z" fill="white"/>
+  <ellipse cx="40" cy="30" rx="12" ry="6" fill="white"/>
+  <text x="40" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="10" font-weight="bold">Java</text>
+</svg>
