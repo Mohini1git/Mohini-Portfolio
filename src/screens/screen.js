@@ -27,7 +27,6 @@ export class Screen {
               <a href="#education" class="nav-link" data-page="education">Education</a>
               <a href="#skills" class="nav-link" data-page="skills">Skills</a>
               <a href="#projects" class="nav-link" data-page="projects">Projects</a>
-              <a href="#process" class="nav-link" data-page="process">Process</a>
               <a href="#experience" class="nav-link" data-page="experience">Experience</a>
               <a href="#contact" class="nav-link" data-page="contact">Contact</a>
             </nav>
@@ -40,7 +39,6 @@ export class Screen {
           <section id="education" class="page-section"></section>
           <section id="skills" class="page-section"></section>
           <section id="projects" class="page-section"></section>
-          <section id="process" class="page-section"></section>
           <section id="experience" class="page-section"></section>
           <section id="contact" class="page-section"></section>
         </main>
